@@ -1,0 +1,1 @@
+# ChatGPT-Clipboard-Paster
